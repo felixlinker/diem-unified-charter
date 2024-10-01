@@ -43,7 +43,7 @@ first milestone of the Working Group.
 
 - Define reusable format(s) for Digital Emblems
 - Define validation mechanism(s) for Digital Emblems
-- Define discovery of Digital Emblems for Digitally-Discovered Assets
+- Define discovery of Digital Emblems for Digitally-Observed Assets
 - Define discovery of Digital Emblems for Physically-Discovered Assets
 
 **BoF v2 discussion TODO: should this WG adopt both digital and physical assets?**
