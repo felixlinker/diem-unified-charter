@@ -43,10 +43,10 @@ first milestone of the Working Group.
 
 - Define reusable format(s) for Digital Emblems
 - Define validation mechanism(s) for Digital Emblems
-- Define discovery of Digital Emblems for Digital Assets
-- Define discovery of Digital Emblems for Physical Assets
+- Define discovery of Digital Emblems for Digitally-Discovered Assets
+- Define discovery of Digital Emblems for Physically-Discovered Assets
 
-### BoF v2 discussion TODO: should this WG adopt both digital and physical assets? 
+**BoF v2 discussion TODO: should this WG adopt both digital and physical assets?**
 
 It is not typical for IETF work to address the expectations of entities that are
 legally responsible for determining if a standard is suitable for a given use
