@@ -32,7 +32,14 @@ other IETF working groups (e.g., SPICE, DRIP, SCITT, etc.) on the proper reuse o
 existing IETF standards. Additionally, the working group will liaise with
 external organizations responsible for defining acceptable uses of their legally defined emblems.
 
-This Working Group considers the following goals in scope. The first milestone
+The following goals are in scope:
+
+- Define reusable format(s) for Digital Emblems
+- Define validation mechanism(s) for Digital Emblems
+- Define discovery of Digital Emblems for Digital Assets
+- Define discovery of Digital Emblems for Physical Assets
+
+The first milestone
 of this Working Group will be to (1) gain consensus with entities responsible
 for defining acceptable uses of their legally defined emblems on requirements
 and (2) based on those requirements, identify which portions of these goals
@@ -40,11 +47,6 @@ require novel work and which should be given to other Working Groups that may
 already own related scope. Divergent requirements between such stakeholders
 may result in distinct units of work, but this determination is left to this
 first milestone of the Working Group.
-
-- Define reusable format(s) for Digital Emblems
-- Define validation mechanism(s) for Digital Emblems
-- Define discovery of Digital Emblems for Digital Assets
-- Define discovery of Digital Emblems for Physical Assets
 
 ### BoF v2 discussion TODO: should this WG adopt both digital and physical assets? 
 
