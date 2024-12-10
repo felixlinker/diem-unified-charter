@@ -20,7 +20,7 @@ drivers in the development of a digital emblem architecture.
 
 # Initial Scope
 
-The DIEM WG will initially consider use cases for assets with bindings to emblem types where
+The DIEM WG will initially consider use cases for digital assets with bindings to emblem types where
 validation of the emblem is indistinguishable from observation of the emblem.
 This encompasses the unique challenge of assets and validators remaining unknown to one another.
 
